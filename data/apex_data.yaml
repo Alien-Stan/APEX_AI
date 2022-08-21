@@ -1,0 +1,7 @@
+path: G:/yolov5/apex_data/train_data
+train: images/train
+val: images/val
+
+nc: 2
+names: ['body_enemy', 'head_enemy']
+
